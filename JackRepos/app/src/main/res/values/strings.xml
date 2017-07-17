@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">JackRepos</string>
+    <string name="s_loading_repo_detail">Loading Repo detail</string>
+    <string name="s_loading">Loading...</string>
+    <string name="title_activity_repo_detail">Repo Detail</string>
+    <string name="action_settings">Settings</string>
+    <string name="repoId">Repo ID :</string>
+    <string name="repoName">Repo Name :</string>
+    <string name="createdAt">Created At :</string>
+    <string name="description">Description :</string>
+    <string name="watchersCount">Watchers Count :</string>
+    <string name="stargazersCount">Stargazers Count :</string>
+    <string name="forksCount">Forks Count :</string>
+    <string name="openIssuesCount">Open Issues Count :</string>
+
+</resources>
